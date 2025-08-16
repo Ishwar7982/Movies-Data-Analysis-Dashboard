@@ -7,17 +7,17 @@ The dataset includes metadata about movies, covering essential attributes.
 
 Columns:
 
--- tconst – Unique identifier for each movie (IMDb-like format)
--- titleType – Type of title (e.g., movie)
---  primaryTitle – Official movie title
--- originalTitle – Original release title
--- startYear – Release year
--- endYear – End year (if applicable, otherwise \N)
--- runtimeMinutes – Runtime duration in minutes
--- genres – Movie genres (comma-separated)
--- awards – Number of awards won
--- nominations – Number of award nominations
--- best picture – Indicator if nominated/won Best Picture (1 = Yes, 0 = No)
+-- tconst – Unique identifier for each movie (IMDb-like format).
+-- titleType – Type of title (e.g., movie).
+--  primaryTitle – Official movie title.
+-- originalTitle – Original release title.
+-- startYear – Release year.
+-- endYear – End year (if applicable, otherwise \N).
+-- runtimeMinutes – Runtime duration in minutes.
+-- genres – Movie genres (comma-separated).
+-- awards – Number of awards won.
+-- nominations – Number of award nominations.
+-- best picture – Indicator if nominated/won Best Picture (1 = Yes, 0 = No).
 
 
 # Dashboard Features
