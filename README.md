@@ -35,9 +35,13 @@ Columns:
 The Power BI dashboard provides the following insights:
 
 🎥 Movie Trends – Number of movies released per year.
+
 ⏳ Runtime Analysis – Distribution of movie lengths.
+
 🎭 Genre Popularity – Breakdown of most common genres.
+
 🏆 Awards & Nominations – Analysis of award-winning films.
+
 ⭐ Best Picture Highlights – Movies nominated/won in the Best Picture category.
 
 # Visual Insights
