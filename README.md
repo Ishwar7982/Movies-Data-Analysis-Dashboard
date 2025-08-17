@@ -76,4 +76,16 @@ Some sample DAX calculations used in the dashboard:
 -- Best_Picture = SUM(Data[best picture])
 
 
+# BUttons
+-- Menu - Show All 4 Butoons
+
+-- Fev Genre - Show Resent 3 year Data with Selected Category.
+
+-- WF Data - Convert  Clustered Bar Chart in a WaterFall Chart.
+
+-- Bar Chart - Convert WaterFall Chart in a Clusteret Bar Chart.
+
+-- Reset - Show the default view.
+
+
 
